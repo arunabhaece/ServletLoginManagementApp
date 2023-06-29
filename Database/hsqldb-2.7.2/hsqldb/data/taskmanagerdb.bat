@@ -1,0 +1,1 @@
+java -cp ../lib/hsqldb.jar org.hsqldb.server.Server --database.0 file:taskmanager --dbname.0 taskmanager
